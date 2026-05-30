@@ -1,6 +1,6 @@
 {
-  "name": "Lotto Calculator",
-  "short_name": "Lotto",
+  "name": "สูตรหวยเจ๊ฟ้า",
+  "short_name": "หวยเจ๊ฟ้า",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#a2fcba",
