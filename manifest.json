@@ -1,7 +1,9 @@
 {
+  "id": "/lotto-pwa/",
   "name": "สูตรหวยเจ๊ฟ้า",
   "short_name": "หวยเจ๊ฟ้า",
-  "start_url": "index.html",
+  "start_url": "/lotto-pwa/",
+  "scope": "/lotto-pwa/",
   "display": "standalone",
   "background_color": "#a2fcba",
   "theme_color": "#16a34a",
